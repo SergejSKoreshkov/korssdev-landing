@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="korssdev" />
  </a> 
  <a href="https://www.buymeacoffee.com/korssdev" target="_blank">
-  <img src="https://img.shields.io/badge/Buymeacoffee-fbdd02?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="korssdev" />
+  <img src="https://img.shields.io/badge/Buymeacoffee-fbdd02?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="korssdev" />
  </a> 
 </p>
 <br />
