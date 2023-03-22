@@ -1,9 +1,9 @@
 {
   "name": "react-webpack5-ts-boilerplate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Boilerplate project with React, React Router, Webpack 5, Babel, Typescript, Eslint",
   "main": "index.js",
-  "repository": "https://github.com/SergejSKoreshkov/fintor.git",
+  "repository": "https://github.com/SergejSKoreshkov/react-webpack5-ts-boilerplate.git",
   "author": "SergejSKoreshkov@gmail.com",
   "license": "MIT",
   "scripts": {

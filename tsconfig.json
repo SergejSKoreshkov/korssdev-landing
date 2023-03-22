@@ -1,16 +1,8 @@
 {
     "compilerOptions": {
-        "types": [
-            "node",
-            "jest"
-        ],
-        "sourceMap": true,
+        "types": [ "node" ],
         "esModuleInterop": true,
         "noImplicitAny": true,
-        "strict": true,
-        "pretty": true,
-        "allowSyntheticDefaultImports": false,
-        "suppressImplicitAnyIndexErrors": false,
         "allowJs": false,
         "module": "commonjs",
         "target": "ES6",
