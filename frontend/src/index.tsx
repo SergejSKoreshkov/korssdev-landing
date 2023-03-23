@@ -3,6 +3,8 @@ import * as React from 'react'
 import { createRoot } from 'react-dom/client'
 import { App } from './router/App'
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 document.addEventListener('DOMContentLoaded', () => {
     const container = document.querySelector('#root')
     if (container) {

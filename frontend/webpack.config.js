@@ -32,7 +32,7 @@ module.exports = {
             },
             {
                 test: /\.(png|jpg|svg|gif)?$/,
-                use: 'asset/resource'
+                type: 'asset/resource'
             },
             {
                 test: /\.(tsx|ts)$/,
