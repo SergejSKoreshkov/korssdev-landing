@@ -7,13 +7,14 @@ services:
     build: ./nginx
     ports:
       - '443:443'
+      - '80:80'
     volumes:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
       - ./frontend/dist:/var/www/html
   certbot:
     image: certbot/certbot
-    volumes: 
+    volumes:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
     command: certonly --webroot -w /var/www/certbot --force-renewal --email SergejSKoreshkov@gmail.com -d korssdev.com --agree-tos
