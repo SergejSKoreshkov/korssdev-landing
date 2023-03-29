@@ -13,7 +13,6 @@ services:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
       - ./frontend/dist:/var/www/html
-    restart: always
 
   certbot:
     image: certbot/certbot
