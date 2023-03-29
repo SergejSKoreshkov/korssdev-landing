@@ -1,0 +1,17 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.home-card-header {
+    background-color: #3cca7f;
+    color: #ffffff;
+}
+
+.home-card-header a.btn {
+    background-color: #ffffff;
+    color: #3cca7f;
+}
+
+.home-card-list > div {
+    border: none;
+}

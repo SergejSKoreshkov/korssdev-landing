@@ -4,6 +4,7 @@ import { createRoot } from 'react-dom/client'
 import { App } from './router/App'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
+import './style.css'
 
 document.addEventListener('DOMContentLoaded', () => {
     const container = document.querySelector('#root')
